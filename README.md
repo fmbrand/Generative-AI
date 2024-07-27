@@ -1,5 +1,6 @@
 In 'with Docker And Hugging Face's' is a simple text to text or sentence completeable Generative AI.
 To Access this 
+
      1. download that file
      
      2. download docker desktop and setup it.
